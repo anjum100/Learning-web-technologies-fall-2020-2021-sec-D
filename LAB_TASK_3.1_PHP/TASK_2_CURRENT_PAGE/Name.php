@@ -24,7 +24,7 @@ if(isset($_REQUEST['submit'])){
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Name</title>
+    <title>NAME</title>
 </head>
 <body>
 
