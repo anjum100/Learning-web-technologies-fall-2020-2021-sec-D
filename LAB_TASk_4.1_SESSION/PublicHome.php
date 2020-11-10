@@ -11,7 +11,7 @@
 			
 <tr>
 	<th colspan="3"><img width="70" align="left"   height="50" src="image/x.jpg">
-	 <a href="home.php" >Home| </a>
+	 <a href="PublicHome.php" >Home| </a>
 	 <a href="login.php" >Login|</a>
 	 <a href="resistration.php" >Registration</a>
 
