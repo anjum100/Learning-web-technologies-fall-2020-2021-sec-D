@@ -18,8 +18,9 @@
 	<th colspan="3"><h1>Welcome Bob! </h1>
 	 <a href="profile.html" >Profile </a><br>
 	 <a href="change_password.html" >Change Password</a><br>
-	 <a href="view_users.html" >View Users</a><br>
-	 <a href="view_users.html" >Logout</a><br><br>
+	 <a href="admin_home.html" >View Admin</a><br>
+	 <a href="user_home.html" >View Users</a><br>
+	 <a href="user_home.html" >Logout</a><br><br>
 
 	<h3>User list</h3>
 
