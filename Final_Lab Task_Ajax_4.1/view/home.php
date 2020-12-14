@@ -15,7 +15,7 @@
 	<title>Home Page, <?php echo $_COOKIE['flag'];?></title>
 </head>
 <body>
-	<h1>Welcome Home! </h1>
+	<h1>Welcome Bob! </h1>
 	<a href="profile.php">Profile</a> |
 	<a href="logout.php">logout</a>
 
