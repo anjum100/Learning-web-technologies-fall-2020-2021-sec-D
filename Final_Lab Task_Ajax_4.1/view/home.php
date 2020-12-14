@@ -15,7 +15,7 @@
 	<title>Home Page, <?php echo $_COOKIE['flag'];?></title>
 </head>
 <body>
-	<th colspan="3"><h1>Welcome Bob! </h1>
+	<th colspan="3"><h1>Welcome Home! </h1>
 	 <a href="profile.html" >Profile </a><br>
 	 <a href="change_password.html" >Change Password</a><br>
 	 <a href="admin_home.html" >View Admin</a><br>
